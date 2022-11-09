@@ -8,5 +8,12 @@
   
   참고 : https://cplusplus.com/reference/algorithm/reverse/
 
+  
+  max_element(), min_element() : 순서가 없는 배열, 벡터, 리스트 등에 있는 데이터에서 사용.
+  
+  max_element(start,end) = [start,end)범위 중 가장 큰 iterator를 반환
+  
+  *max_element(start,end) = [start,end)범위 중 가장 큰 value를 반환
+
 ## C++ 기본
 전역변수의 초기값은 0

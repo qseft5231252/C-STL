@@ -15,7 +15,7 @@
   
   *max_element(start,end) = [start,end)범위 중 가장 큰 value를 반환
   
-  fill(start,end,value) : start부터 end전까지 value로 채워 넣겠다는 의미
+  fill(start,end,value) : start부터 end전까지 value로 채워 넣겠다는 의미(전체를 특정값으로 채워 넣고 싶을 때 사용함)
 
 ## C++ 기본
 전역변수의 초기값은 0
